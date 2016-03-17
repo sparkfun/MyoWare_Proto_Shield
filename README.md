@@ -1,9 +1,9 @@
 MyoWare™ Proto Shield
 ========================================
 
-![MyoWare™ Proto Shield](URL for picture of part)
+![MyoWare™ Proto Shield](https://cdn.sparkfun.com//assets/parts/1/1/1/4/2/13709-01.jpg)
 
-[*SparkFun Part Name (SKU)*](URL for product on Sparkfun.com)
+[*MyoWare™ Proto Shield (BOB-13709)*](https://www.sparkfun.com/products/13709)
 
 The MyoWare™ Proto Shield is designed to pair with the MyoWare™ Muscle Sensor. This shield provides 8 x 15 solderable through holes on a standard 0.1" grid.
 
@@ -14,14 +14,11 @@ Repository Contents
 
 Documentation
 --------------
-* **[Library](GitHub library URL)** - <LANGUAGE> library for the <PRODUCT NAME>.
-* **[Hookup Guide](Learn.SparkFun URL)** - Basic hookup guide for the <PRODUCT NAME>.
-* **[SparkFun Fritzing repo](https://github.com/sparkfun/Fritzing_Parts)** - Fritzing diagrams for SparkFun products.
-* **[SparkFun 3D Model repo](https://github.com/sparkfun/3D_Models)** - 3D models of SparkFun products.
+* **[Hookup Guide](https://learn.sparkfun.com/tutorials/myoware-muscle-sensor-kit)** - Basic hookup guide for the MyoWare™ Proto Shield.
 
 Product Versions
 ----------------
-* [v1.0](part URL)- MyoWare™ Proto Shield
+* [v1.0](https://www.sparkfun.com/products/13709)- MyoWare™ Proto Shield
 
 License Information
 -------------------
@@ -36,4 +33,4 @@ Distributed as-is; no warranty is given.
 
 - Your friends at SparkFun.
 
-_<COLLABORATION CREDIT>_
+Designed by Brian E. Kaminski of Advancer Technologies
